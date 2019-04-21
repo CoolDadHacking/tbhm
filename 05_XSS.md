@@ -1,4 +1,4 @@
-# ￼￼￼Tactical Fuzzing - XSS
+# Tactical Fuzzing - XSS
 
 ## XSS
 Core Idea: Does the page functionality display something to the users?

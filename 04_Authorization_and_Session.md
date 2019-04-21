@@ -22,4 +22,3 @@ Session Related:
 - Never ending cookie length
 - Multiple sessions allowed
 - Easily reversible cookie (base64 most often)
-￼

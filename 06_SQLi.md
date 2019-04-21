@@ -14,7 +14,7 @@ Works in single quote context, works in double quote context, works in “straig
 
 You can also leverage the large database of fuzzlists from Seclists (https://github.com/danielmiessler/SecLists)
 
-##￼￼SQL Injection Observations
+##SQL Injection Observations
 Blind is predominant, Error based is highly unlikely.
 
 ``
@@ -32,7 +32,7 @@ SQLMap is king!
 - SQLiPy Burp plugin works well to instrument SQLmap quickly.
 Lots of injection in web services!
 
-##￼Best SQL injection resources
+##Best SQL injection resources
 
 - MySQL:
   - [PentestMonkey's mySQL injection cheat sheet] (http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet)

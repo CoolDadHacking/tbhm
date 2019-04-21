@@ -6,7 +6,7 @@ Core Idea: Does it (or can it) interact with the server file system?
 
 [Liffy] (https://github.com/rotlogix/liffy) is new and cool here but you can also use [Seclists] (https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/JHADDIX_LFI.txt):
 
-## ￼￼Malicious File Upload
+## Malicious File Upload
 
 This is an important and common attack vector in this type of testing.
 A file upload functions need a lot of protections to be adequately secure.
@@ -40,7 +40,7 @@ Common blacklist bypasses:
 - ”../” CHANGE TO “....//”
 - ”/” CHANGE TO “//”
 
-Redirections Common Parameters or Injection points￼:
+Redirections Common Parameters or Injection points:
 - dest=
 - continue=
 - redirect=

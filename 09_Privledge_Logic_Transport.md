@@ -1,4 +1,4 @@
-# ￼Privilege, Transport, Logic
+# Privilege, Transport, Logic
 
 ## Privilege
 
@@ -18,7 +18,7 @@ Testing user priv:
 Autorize Burp plugin is pretty neat [here] (https://github.com/Quitten/Autorize).
 
 ## Common Functions or Views
-￼
+
 - Add user function
 - Delete user function
 - start project / campaign / etc function
@@ -27,7 +27,7 @@ Autorize Burp plugin is pretty neat [here] (https://github.com/Quitten/Autorize)
 - payment processing view
 - any view with PII
 
-## ￼Insecure direct object references
+## Insecure direct object references
 
 IDORs are common place in bounties, and hard to catch with scanners.
 

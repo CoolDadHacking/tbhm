@@ -1,6 +1,6 @@
 # Mapping
 
-## ￼Mapping Tips:
+## Mapping Tips:
 - Google
 - Smart* Directory Brute Forcing
   - RAFT lists (included in Seclists)
@@ -8,14 +8,14 @@
   -  Git Digger
 - Platform Identification:
   - Wapplyzer (Chrome)
-  - Builtwith (Chrome)
+  - Built with (Chrome)
   - retire.js (cmd-line or Burp)
   - Check CVE’s
 - Auxiliary
   - WPScan
   -CMSmap
 
-##￼Directory Bruteforce Workflow
+## Directory Bruteforce Workflow
 After bruteforcing look for other status codes indicating you are denied or require auth then append list there to test for misconfigured access control.
 
 Example:
@@ -27,7 +27,7 @@ GET http://www.acme.com/controlpanel/ - **401 hmm.. ok**
 GET http://www.acme.com/controlpanel/[bruteforce here now]
 ````
 
-## ￼￼Mapping/Vuln Discovery using OSINT
+## Mapping/Vuln Discovery using OSINT
 Find previous/existing problem:
 - Xssed.com
 - Reddit XSS - /r/xss
@@ -38,7 +38,7 @@ Find previous/existing problem:
 
 Issues might already reported but use the flaw area and injection type to guide you to further injections or filter bypass
 
-## ￼New Project: Maps
+## New Project: Maps
 New OSINT/Mapping project
 - 250+ bounty programs
 - Crawl
@@ -48,7 +48,7 @@ New OSINT/Mapping project
 
 https://github.com/bugcrowdlabs/maps
 
-### ￼Using the Maps Project: Crawling
+### Using the Maps Project: Crawling
 Using + Ruby + Anemone + JSON + Grep
 
 ````
@@ -67,6 +67,3 @@ OSINT framework, simple to integrate. Features like:
 - Nmap Scan
 - etc
 Code @ http://github.com/intrigueio/intrigue-core
-
-
-￼

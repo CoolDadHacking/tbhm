@@ -3,17 +3,17 @@
 ## The vulns formerly known as “noise”
 
 - Content Spoofing or HTML injection
-- Referer leakage
+- Referrer leakage
 - security headers
 - path disclosure
 - clickjacking
 - ++
 
-## ￼How to test a web app in n minute
+## How to test a web app in n minute
 
 How can you get maximum results within a given time window?
 
-## ￼￼Data Driven Assessment (diminishing return FTW)
+## Data Driven Assessment (diminishing return FTW)
 
 1. Visit the search, registration, contact, password reset, and comment forms and hit them with your polyglot strings
 2. Scan those specific functions with Burp’s built-in scanner
